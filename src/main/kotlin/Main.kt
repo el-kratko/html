@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
     // String to parse
     val html = """<html>
     |<h1>My Heading</h1>
-    |<div>body</div>
+    |<div>body</div><div>River</div>
     |</html>
     """.trimMargin()
 
